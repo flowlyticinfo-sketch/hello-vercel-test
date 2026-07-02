@@ -1,4 +1,7 @@
 {
-  "buildCommand": "npm install",
-  "outputDirectory": "public"
+  "functions": {
+    "index.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
 }
